@@ -1,0 +1,15 @@
+/* @font-face {
+    font-family: 'iconfont';
+    src: url('./font/iconfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+} */
+body{
+    background-color: aqua;
+}
+.h{
+    color: wheat;
+    background: url('./imgs/Chrysanthemum.jpg');
+    /* font-family: 'iconfont'; */
+    background-color: black;
+}
